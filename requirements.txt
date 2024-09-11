@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+setuptools
+tensorflow
+keras
+torch.optim
+torch.optim.optimizer
